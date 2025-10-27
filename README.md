@@ -5,8 +5,8 @@
 -  To get in contact email me at: isabellerobbins44@gmail.com
 -  My pronouns are she/her
 -  Fun facts:
-  - I have a cat named Scraggles whom I adore and spoil.
-  - I love doing archery, which I like to think prepares me well for a Zombie apocolypse.
+    - I have a cat named Scraggles whom I adore and spoil.
+    - I love doing archery, which I like to think prepares me well for a Zombie apocolypse.
 
 # Languages
 
