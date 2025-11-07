@@ -17,3 +17,18 @@ Still Learning:
 - Rust
 - C#
 - R
+
+# Education
+### College
+- Willamette College, Salem OR
+- Class of 2028
+- 3.89 GPA
+- Computer Science BS
+- Data Science BS
+- (Intended) Data Science MS
+
+### High School
+- Horizon High School, Denver CO
+- Class of 2024
+- 3.7 GPA
+- Honors Program member, graduated with distinction
